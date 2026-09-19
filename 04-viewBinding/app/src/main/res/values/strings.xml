@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewExample</string>
+    <string name="screen_title">View Binding demo</string>
+    <string name="screen_description">Zadej jméno a přidej nový View do ViewGroup.</string>
+    <string name="name_hint">Jméno</string>
+    <string name="add_greeting">Přidat pozdrav</string>
+    <string name="greetings_title">Vytvořené Views</string>
+    <string name="default_name">světe</string>
+    <string name="greeting_format">Ahoj, %1$s!</string>
+</resources>
