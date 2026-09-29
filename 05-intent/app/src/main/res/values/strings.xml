@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Intent</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">Profil uživatele</string>
+    <string name="greeting_format">Ahoj, %1$s!</string>
+    <string name="changes_format">Počet změn jména: %1$d</string>
+    <string name="edit_name">Změnit jméno</string>
+    <string name="reset_defaults">Obnovit výchozí</string>
+    <string name="default_name">host</string>
+
+    <!-- EditNameActivity -->
+    <string name="edit_title">Změna jména</string>
+    <string name="current_name_format">Aktuální jméno: %1$s</string>
+    <string name="new_name_hint">Nové jméno</string>
+    <string name="name_required">Zadej jméno</string>
+    <string name="save">Uložit</string>
+    <string name="cancel">Zrušit</string>
+</resources>
