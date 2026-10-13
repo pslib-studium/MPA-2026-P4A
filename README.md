@@ -2,6 +2,10 @@
 
 Tento repozitář obsahuje ukázkové kódy z hodin programování v jazyce Kotlin pro vývoj mobilních aplikací určených pro Android. 
 
+## Jetpack Compose
+
+- [06 — Základy Jetpack Compose](06-jetpack/README.md): deklarativní UI, stav, rekompozice, rozložení a náhledy na příkladu počítadla.
+
 ## Doporučené výukové materiály
 
 ### Oficiální dokumentace

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jetpack</string>
+    <string name="counter_title">Počítadlo</string>
+    <string name="counter_value">Počet kliknutí: %1$d</string>
+    <string name="increment">Přičíst 1</string>
+    <string name="reset">Vynulovat</string>
+</resources>
